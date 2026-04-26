@@ -1,4 +1,4 @@
-![Profile](./banner.png)
+![Profile](./banner_GitHub.png)
 # Hey, I'm Su Hwan
 
 CS grad who builds things out of necessity and fun.
